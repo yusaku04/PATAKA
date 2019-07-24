@@ -21,6 +21,10 @@
 <p align="center">
   <a><img src="https://img.shields.io/badge/Commands-menu-yellow.svg"></a>
  </p>
+<h3 align="center">Installation (Jeromes Script)</h3>
+
+  ```html
+wget https://raw.githubusercontent.com/johndesu090/AutoScriptDebianStretch/master/DebianStretch && chmod +x DebianStretch && ./DebianStretch
 
 <h3 align="center">Installation (DigitalOcean, VULTR & MNX Solutions)</h3>
 
